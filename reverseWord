@@ -1,0 +1,6 @@
+var string = "erehT era a tsav rebmun fo secruoser rof gninrael erom tpircsavaJ";
+
+var x = string.split(" ");
+for(i=0; i<=x.length; i++){
+    var element = x[i];
+}
